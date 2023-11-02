@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "ext-pdo": "*",
+        "ext-curl": "*",
+        "tecnickcom/tcpdf": "^6.2.13",
+        "spatie/calendar-links": "^1.8"
+    }
+}
